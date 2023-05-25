@@ -38,7 +38,7 @@ $error: #d32752;
 $info: #f6c31c;
 
 // Spacing
-$base-padding: 0.75rem;
+$base-padding: 0.74rem;
 $base-margin: 0.75rem;
 
 // Border
@@ -62,7 +62,7 @@ button {
 .error {
     color: $error;
     border-color: $error;
-    border-style: solid;
+    border-style:dotted;
 }
 
 .notification {
