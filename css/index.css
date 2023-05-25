@@ -27,6 +27,30 @@ img {
   max-width: 100%;
 }
 
-h1 a {
-  color: red;
+/* VARIABLES */
+/* Theme Colors */
+h1 {
+  color: #326dee;
+}
+
+a {
+  color: #1ac888;
+}
+
+button {
+  color: #fff;
+  border: 0;
+  background: #326dee;
+}
+
+.error {
+  color: #d32752;
+  border-color: #d32752;
+  border-style: solid;
+}
+
+.notification {
+  color: #1ac888;
+  border-color: #1ac888;
+  border-style: solid;
 }
