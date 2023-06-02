@@ -10,7 +10,7 @@
 
 .btn {
     @include btn; //Generic Color:Used for default colors.
-    // NOTE: It means that if a color value is not passed at all, use the default color(s).
+    // NOTE: It means that if a color value is not passed at all, use the default color.
 }
 
 @each $key, $val in $colors {
